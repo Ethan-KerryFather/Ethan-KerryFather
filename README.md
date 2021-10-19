@@ -1,3 +1,3 @@
 SOONGSIL Univ. Software 
 
-interest in android, block-chain 
+interested in android, block-chain 
