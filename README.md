@@ -7,7 +7,7 @@
 <hr/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwoftCreation&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwoftCreation&layout=Demo"/>
 <br/>
 <hr/>
 <br/>
