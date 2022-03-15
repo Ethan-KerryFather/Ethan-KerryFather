@@ -1,2 +1,21 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>About.me</title><path d="M19.536 9.146c-1.373 0-2.133 1.014-2.294 2.116h4.608c-.125-1.05-.867-2.115-2.314-2.115m-2.26 3.617c.235 1.156 1.193 1.97 2.532 1.97.725 0 1.77-.27 2.384-.914l1.175 1.35c-1.064 1.11-2.653 1.426-3.74 1.426-2.64 0-4.697-1.906-4.697-4.606 0-2.535 1.894-4.62 4.57-4.62 2.585 0 4.5 1.98 4.5 4.604v.766h-6.723v.023zm-6.487 3.83v-5.69c0-.976-.435-1.536-1.338-1.536-.814 0-1.355.585-1.717 1.007v6.24h-2.35v-5.7c0-.976-.415-1.532-1.318-1.532-.813 0-1.375.586-1.717 1.006v6.24H0V7.505h2.35v1.15c.4-.463 1.302-1.26 2.71-1.26 1.247 0 2.096.526 2.477 1.59.524-.761 1.5-1.59 2.91-1.59 1.7 0 2.69 1.01 2.69 2.963v6.24h-2.353l.005-.007z"/></svg>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Adobe Fonts</title><path d="M19.764.375H4.236A4.236 4.236 0 0 0 0 4.611V19.39a4.236 4.236 0 0 0 4.236 4.236h15.528A4.236 4.236 0 0 0 24 19.389V4.61A4.236 4.236 0 0 0 19.764.375zm-3.25 6.536c-.242 0-.364-.181-.44-.439-.257-.97-.59-1.257-.787-1.257s-.5.364-.833 1.12c-.417.97-.754 1.97-1.007 2.994l1.732-.002c.11.28.01.6-.238.772H13.23c-.56 1.878-1.031 3.688-1.592 5.46a9.676 9.676 0 0 1-1.105 2.56 3.144 3.144 0 0 1-2.484 1.332c-.773 0-1.53-.363-1.53-1.166.036-.503.424-.91.924-.97a.46.46 0 0 1 .424.243c.379.682.742 1.075.909 1.075.166 0 .303-.227.575-1.211l1.988-7.322-1.43-.002a.685.685 0 0 1 .227-.774h1.423c.257-.895.609-1.76 1.048-2.58a3.786 3.786 0 0 1 3.272-2.195c1.136 0 1.605.545 1.605 1.242a1.144 1.144 0 0 1-.97 1.12z"/></svg>
+<h1>About me &nbsp;<img  src="https://img.shields.io/badge/ME-blue?logo=About.me&logoColor=#00A98F&logoWidth=80"></h1>
+<p><bold>리액트 개발자를 목표로 공부하고 있습니다</bold></p>
+<br/>
+<hr/>
+<br/>
+<h2>what i study</h2>
+<h4>Web Frontend</h4>
+<img src="https://img.shields.io/badge/React-red?style=for-the-badge&logo=React&color=61DAFB&logoColor=red">
+<img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=HTML5&color=E34F26&logoColor=blue">
+<img src="https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=Javascript&color=F7DF1E&logoColor=red">
+<img src="https://img.shields.io/badge/Redux-red?style=for-the-badge&logo=Redux&color=764ABC&logoColor=red">
+<img src="https://img.shields.io/badge/ReactRouter-red?style=for-the-badge&logo=ReactRouter&color=CA4245&logoColor=green">
+<img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=Bootstrap&color=7952B3&logoColor=red">
+
+<br/>
+<hr/>
+<br/>
+
+<h4>Tools</h4>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-red?style=for-the-badge&logo=VisualStudioCode&color=007ACC&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=Linux&color=FCC624&logoColor=red">
