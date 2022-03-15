@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Redux-red?style=for-the-badge&logo=Redux&color=764ABC&logoColor=red">
 <img src="https://img.shields.io/badge/ReactRouter-red?style=for-the-badge&logo=ReactRouter&color=CA4245&logoColor=green">
 <img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=Bootstrap&color=7952B3&logoColor=red">
+<img src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=Firebase&color=FFCA28&logoColor=red">
 
 <br/>
 
