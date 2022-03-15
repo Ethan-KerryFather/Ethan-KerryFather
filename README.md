@@ -1,4 +1,5 @@
 <h1>About me! &nbsp;<img  src="https://img.shields.io/badge/ME-blue?logo=About.me&logoColor=#00A98F&logoWidth=80"></h1>
+<br/>
 <h2>임수원</h2>
 <p>숭실대 소프트웨어학부 재학 중</p>
 <p>리액트 개발자를 목표로 공부 중입니다</p>
@@ -7,6 +8,7 @@
 <hr/>
 <br/>
 
+<h2>Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwoftCreation&layout=Demo"/>
 <br/>
 <hr/>
@@ -21,8 +23,6 @@
 <img src="https://img.shields.io/badge/ReactRouter-red?style=for-the-badge&logo=ReactRouter&color=CA4245&logoColor=green">
 <img src="https://img.shields.io/badge/Bootstrap-red?style=for-the-badge&logo=Bootstrap&color=7952B3&logoColor=red">
 
-<br/>
-<hr/>
 <br/>
 
 <h4>Tools</h4>
