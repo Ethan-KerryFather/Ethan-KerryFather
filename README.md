@@ -1,4 +1,4 @@
-<h1>About me! &nbsp;<img  src="https://img.shields.io/badge/ME-blue?logo=About.me&logoColor=#00A98F&logoWidth=80"></h1>
+<h1 href="https://limcreatingdiary.tistory.com/">About me! &nbsp;<img  src="https://img.shields.io/badge/ME-blue?logo=About.me&logoColor=#00A98F&logoWidth=80"></h1>
 <br/>
 <h2>임수원</h2>
 <p>숭실대 소프트웨어학부 재학 중</p>
