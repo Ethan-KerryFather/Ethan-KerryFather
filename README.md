@@ -1,6 +1,5 @@
-<h1 href="https://limcreatingdiary.tistory.com/">About me! &nbsp;<img  src="https://img.shields.io/badge/ME-blue?logo=About.me&logoColor=#00A98F&logoWidth=80"></h1>
-<br/>
-<h2>임수원</h2>
+
+<h1>임수원</h1>
 <p>숭실대 소프트웨어학부 재학 중</p>
 <p>리액트 개발자를 목표로 공부 중입니다</p>
 
