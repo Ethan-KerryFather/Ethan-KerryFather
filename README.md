@@ -1,7 +1,7 @@
 
 <h1>Suwon Lim</h1>
-<p>숭실대 소프트웨어학부 재학 중</p>
-<p>리액트 개발자를 목표로 공부 중입니다</p>
+<p>Soongsil Univ. department of software</p>
+<p>Web Frontend</p>
 
 <br/>
 <hr/>
