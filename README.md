@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=Firebase&color=FFCA28&logoColor=red">
 
 <h4>App Frontend</h4>
-<img src="https://img.shields.io/badge/React-red?style=for-the-badge&logo=React&color=61DAFB&logoColor=red">
+<img src="https://img.shields.io/badge/React-native-red?style=for-the-badge&logo=React&color=61DAFB&logoColor=red">
 
 <br/>
 
