@@ -2,6 +2,7 @@
 <h1>Suwon Lim</h1>
 <p>Soongsil Univ. department of software</p>
 <p>Web Frontend</p>
+<p>App Frontend(learning)</p>
 
 <br/>
 <hr/>
