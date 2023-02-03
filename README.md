@@ -1,8 +1,8 @@
 
 <h1>Suwon Lim</h1>
 <p>Soongsil Univ. department of software</p>
-<p>Web Frontend</p>
-<p>App Frontend(learning)</p>
+<p>Web Frontend _ React</p>
+<p>App Frontend _ React Native</p>
 
 <br/>
 <hr/>
