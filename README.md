@@ -1,6 +1,6 @@
 
 <h1>Suwon Lim</h1>
-<p>Gloddy - student Startup Project</p>
+<p>Gloddy - student Startup Project - App frontend Developer</p>
 <p>Soongsil Univ. department of software</p>
 <p>Web Frontend _ React</p>
 <p>App Frontend _ React Native</p>
