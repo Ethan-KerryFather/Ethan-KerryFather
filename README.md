@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suwon&nbsp;Lim&fontSize=90" />
-<h2>Gloddy App Frontend developer</h2>
-<h3>Soongsil Univ. Software</h3>
-<br/>
+<h2>Nice to meet you!</h2>
+<p>Gloddy App Frontend developer</p>
+<p>Soongsil Univ. Software</p>
 <hr/>
 <br/>
 <h2>Languages & Tech</h2>
