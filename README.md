@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suwon&nbsp;Lim&fontSize=90" />
-<h2>Nice to meet you!</h2>
-<p>Gloddy App Frontend developer</p>
-<p>Soongsil Univ. Software</p>
-<p>Interested in React & React Native</p>
+<h2>Nice to meet you!👋👋👋</h2>
+<p>🏠 Gloddy App Frontend developer 🏠</p>
+<p>🏫 Soongsil Univ(Seoul) - department of Software 🏫</p>
+<p>💞 Interested in React & React Native 💞</p>
 
 
 <hr/>
 <br/>
-<h2>Languages & Tech</h2>
+<h2>👨‍💻Languages & Tech</h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <hr/>
-<h2>Git state</h2>
+<h2>📝Git state</h2>
 <br/>
 <picture>
 <source 
