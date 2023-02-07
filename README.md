@@ -45,5 +45,4 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-red?style=for-the-badge&logo=VisualStudioCode&color=007ACC&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=Linux&color=FCC624&logoColor=red">
 
-<h4>Velog</h4>
-https://velog.io/@not_that_suwon
+
