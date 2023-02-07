@@ -2,6 +2,8 @@
 <p>Gloddy - student Startup Project - App frontend Developer</p>
 <p>Soongsil Univ. department of software</p>
 <p>Web Frontend _ React</p>
+<img src="https://img.shields.io/badge/React-red?style=for-the-badge&logo=React&color=61DAFB&logoColor=red">
+
 <p>App Frontend _ React Native</p>
 <br/>
 <hr/>
