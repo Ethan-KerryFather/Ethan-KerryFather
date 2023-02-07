@@ -10,7 +10,8 @@
 <br/>
 <h2>Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimoosoo&layout=Demo"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimoosoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimoosoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
 <br/>
 <hr/>
 <br/>
