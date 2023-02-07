@@ -3,10 +3,11 @@
 <p>Gloddy App Frontend developer</p>
 <p>Soongsil Univ. Software</p>
 <p>Interested in React & React Native</p>
+
+
 <hr/>
 <br/>
 <h2>Languages & Tech</h2>
-
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -22,8 +23,7 @@
 	<br/>
 </div>
 
-<br/>
-
+<br/><br/>
 
 <hr/>
 <h2>Git state</h2>
@@ -40,7 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Rimoosoo&show_icons=true" />
 </picture>
 
-
+<br/><br/>
 
 <hr/>
 <br/>
@@ -57,8 +57,8 @@
 <h4>App Frontend</h4>
 <img src="https://img.shields.io/badge/ReactNative-red?style=for-the-badge&logo=React&color=61DAFB&logoColor=red">
 
-<br/>
-
+<br/><br/>
+<hr/>
 <h4>Tools</h4>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-red?style=for-the-badge&logo=VisualStudioCode&color=007ACC&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=Linux&color=FCC624&logoColor=red">
