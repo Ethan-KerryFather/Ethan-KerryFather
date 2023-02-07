@@ -26,6 +26,7 @@
 
 
 <hr/>
+<h2>Git state</h2>
 <br/>
 <picture>
 <source 
