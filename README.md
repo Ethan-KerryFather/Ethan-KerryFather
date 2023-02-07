@@ -3,7 +3,7 @@
 <p>Soongsil Univ. department of software</p>
 <p>Web Frontend _ React</p>
 <p>App Frontend _ React Native</p>
-<img src="https://img.shields.io/badge/React#61DAFB?style=flat&logo=로고이름&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=로고이름&logoColor=white"/>
 <br/>
 <hr/>
 <br/>
