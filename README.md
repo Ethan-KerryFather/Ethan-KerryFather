@@ -24,6 +24,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Rimoosoo&show_icons=true" />
 </picture>
+<hr/>
+<br/>
 <h2>what i study</h2>
 <h4>Web Frontend</h4>
 <img src="https://img.shields.io/badge/React-red?style=for-the-badge&logo=React&color=61DAFB&logoColor=red">
