@@ -3,11 +3,9 @@
 <p>Soongsil Univ. department of software</p>
 <p>Web Frontend _ React</p>
 <p>App Frontend _ React Native</p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=로고이름&logoColor=white"/>
 <br/>
 <hr/>
 <br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"
 <h2>Languages</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimoosoo&layout=Demo"/>
 <br/>
