@@ -2,8 +2,6 @@
 <h2>Gloddy App Frontend developer</h2>
 <h3>Soongsil Univ. Software</h3>
 <br/>
-
-
 <hr/>
 <br/>
 <h2>Languages & Tech</h2>
