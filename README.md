@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suwon&nbsp;Lim&fontSize=90" />
-<p>Gloddy - student Startup Project - App frontend Developer</p>
-<p>Soongsil Univ. department of software</p>
-<p>Web Frontend _ React</p>
-<p>App Frontend _ React Native</p>
+<h2>Gloddy App Frontend developer</h2>
+<h3>Soongsil Univ. Software</h3>
 <br/>
 
 
