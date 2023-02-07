@@ -21,7 +21,7 @@
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<br/>
 	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimoosoo&layout=compact)]				(https://github.com/anuraghazra/github-readme-stats)"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimoosoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
 	<br/>
 </div>
 
