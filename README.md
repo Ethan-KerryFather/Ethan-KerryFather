@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SuwonLim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Suwon&nbsp;Lim&fontSize=90" />
 
 <h1>Suwon Lim</h1>
 <p>Gloddy - student Startup Project - App frontend Developer</p>
