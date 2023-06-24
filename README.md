@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Suwon&nbsp;Lim&fontSize=90" />
-<h2>Nice to meet you! 👋👋👋</h2>
+<div style={{border-width:1}}>
+	<h2>Nice to meet you! 👋👋👋</h2>
 <p>🏫 Soongsil Univ(Seoul) - department of Software 🏫</p>
 <p>💞 React & React Native 💞</p>
 <p>💼 Blockwavelabs 💼</p>
@@ -42,3 +43,5 @@
 </picture>
 
 <br/><br/>
+
+</div>
