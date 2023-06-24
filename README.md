@@ -5,7 +5,7 @@
 <p>💼Blockwavelabs💼</p>
 
 
-<hr/>
+
 <br/>
 <h2>👨‍💻Languages & Tech</h2>
 <div align="center">
@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<hr/>
+
 <h2>📝Git state</h2>
 <br/>
 <picture>
