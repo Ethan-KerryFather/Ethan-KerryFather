@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Rimoosoo&fontSize=90" />
 
 <h2>👋 Nice to meet you</h2>
-<p>Soongsil Univ(Seoul) - department of Software</p>
+<p>Soongsil Univ</p>
 <p>interested in React Native!</p>
 <p>Blockwavelabs</p>
-<p>Practical & Useful</p>
+<p>곱챵 죠아</p>
 
 
 <br/>
