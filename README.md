@@ -2,7 +2,7 @@
 
 <h2>👋 Nice to meet you</h2>
 <p>Soongsil Univ(Seoul) - department of Software</p>
-<p>React & React Native</p>
+<p>interested in React Native!</p>
 <p>Blockwavelabs</p>
 <p>Practical & Useful</p>
 
