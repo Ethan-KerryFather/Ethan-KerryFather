@@ -3,7 +3,7 @@
 <h2>👋 Nice to meet you</h2>
 <p>Soongsil Univ</p>
 <p>interested in React Native!</p>
-
+<b><p>BlockwaveLabs</p></b>
 <p>곱챵 죠아</p>
 
 
