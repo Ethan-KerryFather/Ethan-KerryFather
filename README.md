@@ -22,6 +22,7 @@
 	<img src="https://img.shields.io/badge/Jotai-764ABC?style=flat&logo=Redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<br/>
+	<img src="https://img.shields.io/badge/Solidity-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<br/>
 	
 </div>
