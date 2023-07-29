@@ -2,7 +2,7 @@
 
 <h2>👋 Nice to meet you</h2>
 <p>Soongsil Univ</p>
-<p>Frontend / Contract</p>
+<p>Web, App Frontend / Contract</p>
 <b><p>BlockwaveLabs</p></b>
 
 
