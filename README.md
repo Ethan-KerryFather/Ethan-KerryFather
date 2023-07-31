@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header" />
 
 <h2>👋 Nice to meet you</h2>
 <p>Soongsil Univ, Department of Software science</p>
@@ -46,4 +46,5 @@
 </picture>
 
 <br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=Footer" />
 
