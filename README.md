@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&fontSize=90" />
 
 <h2>👋 Nice to meet you</h2>
-<p>Soongsil Univ</p>
-<p>Web, App Frontend / Contract</p>
+<p>Soongsil Univ, Department of Software science</p>
+<p>Web, App Frontend Developer</p>
+<p>Interested in Smart Contract</p>
 <b><p>BlockwaveLabs</p></b>
 
 
