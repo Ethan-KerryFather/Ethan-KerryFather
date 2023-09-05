@@ -3,7 +3,7 @@
 <h2>👋 Nice to meet you</h2>
 <p>Soongsil Univ, Department of Software science</p>
 <p>Web, App Frontend Developer</p>
-<p>Interested in Smart Contract</p>
+<p>Smart Contract Developer</p>
 <b><p>BlockwaveLabs</p></b>
 
 
