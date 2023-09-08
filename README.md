@@ -4,7 +4,7 @@
 <p>Soongsil Univ, Department of Software science</p>
 <p>Web, App Frontend Developer</p>
 <p>Smart Contract Developer</p>
-<b><p>BlockwaveLabs</p></b>
+<b><p style={{color:'red'}}>BlockwaveLabs</p></b>
 
 
 
