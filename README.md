@@ -5,6 +5,7 @@
 <p>Web, App Frontend Developer</p>
 <p>Smart Contract Developer</p>
 
+<br/>
 <h2>Walk through</h2>
 <b><p>한국대학생IT경영학회 28기 개발파트 2023.09 ~ 2023.12</p><b/>
 <p>ㄴ Part Crossed Study 1st place(2023.09.10)</p>
