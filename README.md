@@ -8,11 +8,11 @@
 <br/>
 <h2>Walk through</h2>
 <b><p>한국대학생IT경영학회 28기 개발파트 2023.09 ~ 2023.12</p><b/>
-<p>ㄴ 파트크로스스터디 1위 - Frontend</p>
-<p>ㄴ 동아ST 기업프로젝트 1위 -Frontend </p>
+<p>ㄴ 파트크로스스터디 1위 - Frontend dev</p>
+<p>ㄴ 동아ST 기업프로젝트 1위 - Frontend dev</p>
 
 <b><p>블록웨이브랩스, 스마트컨트랙트/프론트엔드 개발인턴 2023.06 ~ 2023.09</p><b/>
-<p>ㄴ QVE defi, decentralized finance service using several strategy quant bots</p>
+<p>ㄴ QVE defi, decentralized finance service using several strategy quant bots, SmartContract dev, Frontend dev</p>
 <b><p>숭실대학교 소프트웨어학부, 스마트컴퓨팅연구실 학부연구생 2023.03 ~ 2023.07</p><b/>
 <p>ㄴ Web, Developer experience</p>
 
