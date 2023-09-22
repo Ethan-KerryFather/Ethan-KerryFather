@@ -15,7 +15,7 @@
 <p>ㄴ QVE defi, decentralized finance service using several strategy quant bots, SmartContract dev, Frontend dev</p>
 <b><p>숭실대학교 소프트웨어학부, 스마트컴퓨팅연구실 학부연구생 2023.03 ~ 2023.07</p><b/>
 <p>ㄴ Web, Developer experience</p>
-
+<b><p>숭실대학교 밥집제휴서비스 숭실밥집 기획,개발 및 운영 2023.03 ~ 2023.05</p><b/>
 
 
 
