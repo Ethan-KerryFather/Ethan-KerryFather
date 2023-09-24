@@ -23,12 +23,15 @@
 <b><p>한국대학생IT경영학회 28기 개발파트 2023.09 ~ 2023.12</p><b/>
 <p>ㄴ 파트크로스스터디 1위 - Frontend dev</p>
 <p>ㄴ 동아ST 기업프로젝트 1위, 최우수상 - Frontend dev</p>
-
+<br/>
 <b><p>블록웨이브랩스, 스마트컨트랙트/프론트엔드 개발인턴 2023.06 ~ 2023.09</p><b/>
 <p>ㄴ QVE defi, decentralized finance service using several strategy quant bots, SmartContract dev, Frontend dev</p>
+<br/>
 <b><p>숭실대학교 소프트웨어학부, 스마트컴퓨팅연구실 학부연구생 2023.03 ~ 2023.07</p><b/>
 <p>ㄴ Web, Developer experience</p>
+<br/>
 <b><p>숭실대학교 밥집제휴서비스 숭실밥집 기획,개발 및 운영 2023.03 ~ 2023.05</p><b/>
+<p>ㄴ 팔로워 1500명, 교내 안드로이드 실사용자 420명, 제휴업체 4곳 운영</p>
 
 
 
