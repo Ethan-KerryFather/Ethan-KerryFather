@@ -50,10 +50,12 @@
 	<img src="https://img.shields.io/badge/Jotai-764ABC?style=flat&logo=Redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<br/>
-	<img src="https://img.shields.io/badge/Solidity-FFCA28?style=flat" />
+	<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 	<br/>
-	
 </div>
+
 
 <br/><br/>
 
