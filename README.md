@@ -50,7 +50,9 @@
 	<br/>
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jotai-764ABC?style=flat&logo=Redux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Recoil-464647?style=flat&logo=Recoil&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+	<img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=Material-UI&logoColor=white" />
 	<br/>
 	<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white" />
 	<img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=Remix&logoColor=white" />
