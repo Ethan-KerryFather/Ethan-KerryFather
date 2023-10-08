@@ -53,6 +53,7 @@
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<br/>
 	<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white" />
+	<img src="https://img.shields.io/badge/Remix-000000?style=flat&logo=Remix&logoColor=white" />
 	<br/>
 </div>
 
