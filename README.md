@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header" />
 
 <h1 align="center">Hi 👋, I'm Ethan Lim</h1>
-<h3 align="center">Interested in Web/App Frontend / dotnet / Smart Contract / AI Finetuning</h3>
+<h3 align="center">Frontend & Smart Contract developer, Interested in python backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimoosoo&label=Profile%20views&color=0e75b6&style=flat" alt="rimoosoo" /> </p>
 
